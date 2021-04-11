@@ -24,6 +24,10 @@ Hello, This is Prajwal G(24296).
 
     I have used QLIST to create 5 objects and passed it to QML from Cpp and used QQuickView::setInitialProperties().
     
+6. QMutex_Simple_Example:
+
+    I have created 3 thread instances and started them using QMutex.
+    
 
     
     
