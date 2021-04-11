@@ -20,7 +20,7 @@ I Have added projects based on last two days and also added all other assignment
 4. UnitTest_Simple:
 
     Based on your Explaination I have created a simple Unit test class and created some testcases.
-    In this I have intentionaly failed two testcases so that we can understand how testcases fail.
+    In this I have intentionally failed two testcases so that we can understand how testcases fail.
     
 5. Signal_Slot_and_QINVOKABLE:
 
