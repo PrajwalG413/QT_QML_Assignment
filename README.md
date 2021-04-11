@@ -2,7 +2,7 @@
 
 Hello, This is Prajwal G(24296).
 
-1.#Internationalization_with_Qt:
+# Internationalization_with_Qt:
     I have followed all the steps you have mentioned and created this project from scratch.
     I have removed ComboBox instead used RadioButton and grouped them to change langauge and also added Japanese language.
     
