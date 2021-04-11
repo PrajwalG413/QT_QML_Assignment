@@ -3,6 +3,8 @@
 Hello, This is Prajwal G(24296).
 I Have added projects based on last two days and also added all other assignments questions given.
 
+For any queries or issues please write to me at prajwalg0413@gmail.com 
+
 1. Internationalization_with_Qt:
 
     I have followed all the steps you have mentioned and created this project from scratch.
