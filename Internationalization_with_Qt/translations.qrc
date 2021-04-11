@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Internationalization_with_Qt_hd.qm</file>
-        <file>Internationalization_with_Qt_kd.qm</file>
-    </qresource>
-</RCC>
