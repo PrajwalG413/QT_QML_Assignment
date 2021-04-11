@@ -14,7 +14,7 @@ Hello, This is Prajwal G(24296).
     
 3. Signal_Slot_and_QINVOKABLE:
 
-    I have used signal_slots and also using Q_INVOKABLE [Please uncomment lines specified in project].
+    I have used signal_slots and also Q_INVOKABLE [Please uncomment lines specified in project].
    
 4. Signal_Slot_QPROPERTY_and_qmlRegisterType:
 
