@@ -34,7 +34,9 @@ I Have added projects based on last two days and also added all other assignment
 7. ListOfObjects_cpp_QML:
 
     I have used QLIST to create 5 objects and passed it to QML from Cpp and used QQuickView::setInitialProperties().
-    
+8. ToggleColors:
+
+    I am changing color of rectangle on button click [Used Qt Quick UI Prototype project].
 
     
 
