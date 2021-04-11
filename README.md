@@ -28,7 +28,8 @@ I Have added projects based on last two days and also added all other assignment
    
 6. Signal_Slot_QPROPERTY_and_qmlRegisterType:
 
-    I have used Q_PROPERTY and also to create custom components using qmlRegisterType() [Please uncomment lines specified in project].
+    I have used Q_PROPERTY and also to register class as a component or to create custom components using qmlRegisterType().
+    [Please uncomment lines specified in project].
 
 7. ListOfObjects_cpp_QML:
 
