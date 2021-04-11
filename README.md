@@ -6,7 +6,7 @@ Hello, This is Prajwal G(24296).
     I have followed all the steps you have mentioned and created this project from scratch.
     I have removed ComboBox instead used RadioButton and grouped them to change langauge and also added Japanese language.
     
-2. #Start_Stop_and_Restart_QMutex_QThread:
+2. # Start_Stop_and_Restart_QMutex_QThread:
     This Project was done by Prajwal G, Harikrishnan B and Ananthu S Ajayan.
     Here we have added Restart button and also added functionality to continue count after stopping.
     
