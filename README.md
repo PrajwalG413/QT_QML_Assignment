@@ -11,8 +11,8 @@ For any queries or issues please write to me at prajwalg0413@gmail.com
     I have removed ComboBox instead used RadioButton and grouped them to change langauge and also added Japanese language.
     
 2. Start_Stop_and_Restart_QMutex_QThread:
-
-    This Project was done by Prajwal G, Harikrishnan B and Ananthu S Ajayan.
+    
+    Has mentioned while training this Project was done by Prajwal G, Harikrishnan B and Ananthu S Ajayan.
     Here we have added Restart button and also added functionality to continue count after stopping.
     
 3. QMutex_Simple_Example:
@@ -23,6 +23,10 @@ For any queries or issues please write to me at prajwalg0413@gmail.com
 
     Based on your Explaination I have created a simple Unit test class and created some testcases.
     In this I have intentionally failed two testcases so that we can understand how testcases fail.
+    
+5. Unit_Test_Calculator:
+
+    Implemented same code you have done in training, but added testcases for Diff, MUl, and Div (checked for divide by '0' using QVERIFY).
     
 5. Signal_Slot_and_QINVOKABLE:
 
