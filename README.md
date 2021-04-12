@@ -1,7 +1,8 @@
 # QT_QML_Assignment
 
 Hello, This is Prajwal G(24296).
-I Have added projects based on last two days and also added all other assignment questions given and also commented wherever necessary in code.
+I Have added projects based on last two days and also added all other assignment questions given 
+and also commented wherever necessary in code.
 
 For any queries or issues please write to me at prajwalg0413@gmail.com 
 
@@ -13,7 +14,11 @@ For any queries or issues please write to me at prajwalg0413@gmail.com
 2. Start_Stop_and_Restart_QMutex_QThread:
     
     Has mentioned while training this Project was done by Prajwal G, Harikrishnan B and Ananthu S Ajayan.
-    Here we have added Restart button and also added functionality to continue count after stopping.
+    We have added Restart button and also added functionality to continue count after stopping.
+    Here we have implemented three buttons for start,stop and restart. when user clicks the start button,
+    thread will start the counter from value zero and iterate to the value given inside the run function.
+    If the user clicks the stop button,the counter will stop Whenever user clicks start button again it continues from where we left.
+    Restart button just restarts the counter.
     
 3. QMutex_Simple_Example:
 
