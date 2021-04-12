@@ -1,7 +1,7 @@
 # QT_QML_Assignment
 
 Hello, This is Prajwal G(24296).
-I Have added projects based on last two days and also added all other assignment questions given.
+I Have added projects based on last two days and also added all other assignment questions given and also commented wherever necessary in code.
 
 For any queries or issues please write to me at prajwalg0413@gmail.com 
 
