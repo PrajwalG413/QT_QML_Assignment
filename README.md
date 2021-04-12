@@ -6,6 +6,7 @@ and also commented wherever necessary in code.
 
 For any queries or issues please write to me at prajwalg0413@gmail.com 
 
+Following is a description of each project [Also specified comments in projects]
 1. Internationalization_with_Qt:
 
     I have followed all the steps you have mentioned and created this project from scratch.
